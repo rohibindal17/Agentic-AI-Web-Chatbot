@@ -61,8 +61,7 @@ tooling.
      │
      ├── Tool Layer
      │   ├── Web Search
-     │   ├── APIs
-     │   └── Retrieval Systems
+     │  
      │
      ▼
     Reasoning + Tool Execution
@@ -135,29 +134,6 @@ Agentic chatbot:
 
 ------------------------------------------------------------------------
 
-# 📂 Project Structure
-
-    Agentic_ai_web_chatbot
-    │
-    ├── main.py
-    │
-    ├── agents/
-    │   ├── agent_controller.py
-    │   └── reasoning_logic.py
-    │
-    ├── tools/
-    │   ├── web_search_tool.py
-    │   └── api_tools.py
-    │
-    ├── utils/
-    │   └── helper_functions.py
-    │
-    ├── requirements.txt
-    ├── .env.example
-    └── README.md
-
-------------------------------------------------------------------------
-
 # ⚙️ Installation
 
 ### 1️⃣ Clone the repository
@@ -212,12 +188,7 @@ Then open:
 
 # 💬 Example Interaction
 
-    User: What is Retrieval Augmented Generation?
-
-    Agent:
-    Retrieval Augmented Generation (RAG) is an architecture that combines
-    information retrieval with large language models to improve factual
-    accuracy by grounding responses in external data.
+    User: What is the latest newsin the world?
 
 ------------------------------------------------------------------------
 
@@ -230,20 +201,6 @@ This system can be used for:
 -   Conversational assistants
 -   Knowledge retrieval systems
 -   Educational AI tools
-
-------------------------------------------------------------------------
-
-# 🔮 Future Improvements
-
-Planned extensions:
-
--   Multi-agent collaboration
--   Long-term memory
--   Vector database integration
--   Document-based RAG
--   Docker deployment
--   Cloud deployment
--   Authentication and user sessions
 
 ------------------------------------------------------------------------
 
