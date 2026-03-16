@@ -47,31 +47,6 @@ tooling.
 
 ------------------------------------------------------------------------
 
-# 🏗 System Architecture
-
-    User
-     │
-     ▼
-    Web UI (Streamlit)
-     │
-     ▼
-    Agent Controller
-     │
-     ├── LLM Model
-     │
-     ├── Tool Layer
-     │   ├── Web Search
-     │  
-     │
-     ▼
-    Reasoning + Tool Execution
-     │
-     ▼
-    Final Response
-     │
-     ▼
-    Displayed to User
-
 ### Agent Workflow
 
 1.  **User Query** enters the system\
