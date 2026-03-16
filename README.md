@@ -236,13 +236,4 @@ This project is licensed under the **MIT License**.
 
 ------------------------------------------------------------------------
 
-# 👨‍💻 Author
-
-**Rohi Bindal**
-
-AI/ML Researcher\
-MSc Machine Learning --- Stevens Institute of Technology
-
-GitHub: https://github.com/rohibindal17
-
 ⭐ If you found this project helpful, please **star the repository**.
