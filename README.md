@@ -94,7 +94,7 @@ Agentic chatbot:
 ### AI / LLM Frameworks
 
 -   LangChain
--   OpenAI API or compatible LLM APIs
+-   Groq LLM
 
 ### Web Interface
 
